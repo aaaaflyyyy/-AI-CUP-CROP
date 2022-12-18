@@ -7,3 +7,4 @@ albumentations
 pandas
 seaborn
 wandb
+pytorch_toolbelt
