@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/aaaaflyyyy/AI-CUP-CROP.git
 
-cd AI-CUP-CROP.git
+cd AI-CUP-CROP
 pip install -r requirements.txt
 ```
 
