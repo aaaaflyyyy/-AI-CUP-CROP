@@ -19,7 +19,7 @@ AI-CUP-CROP
 |   ...
 ```
 
-## 3. 準備訓練資料
+## 2. 準備訓練資料
 
 下載資料集放在datasets/CROP/train下
 ```
@@ -39,7 +39,7 @@ datasets/CROP/train
 python splitdata.py
 ```
 
-## 4. Train
+## 3. Train
 ```
 cd ../../image_classification
 python train.py --name "$name" \
@@ -53,7 +53,7 @@ python train.py --name "$name" \
                 --lr 5e-5
 ```
 
-## 5. inference
+## 4. inference
 ```
 python inference.py 
 ```
